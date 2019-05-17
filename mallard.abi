@@ -1,5 +1,5 @@
 {
-    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT Wed May 15 19:35:26 2019",
+    "____comment": "This file was generated with eosio-abigen. DO NOT EDIT Thu May 16 19:42:56 2019",
     "version": "eosio::abi/1.1",
     "structs": [
         {
@@ -169,11 +169,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "oneRoundMaxTotalBet_push",
+                    "name": "oneRoundMaxTotalBet_pair",
                     "type": "asset"
                 },
                 {
-                    "name": "minPerBet_push",
+                    "name": "minPerBet_pair",
                     "type": "asset"
                 }
             ]
@@ -261,11 +261,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "oneRoundMaxTotalBet_Push",
+                    "name": "oneRoundMaxTotalBet_Pair",
                     "type": "asset"
                 },
                 {
-                    "name": "minPerBet_Push",
+                    "name": "minPerBet_Pair",
                     "type": "asset"
                 },
                 {
@@ -369,11 +369,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "oneRoundMaxTotalBet_Push",
+                    "name": "oneRoundMaxTotalBet_Pair",
                     "type": "asset"
                 },
                 {
-                    "name": "minPerBet_Push",
+                    "name": "minPerBet_Pair",
                     "type": "asset"
                 }
             ]
@@ -419,11 +419,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "betDealerPush",
+                    "name": "betDealerPair",
                     "type": "asset"
                 },
                 {
-                    "name": "betPlayerPush",
+                    "name": "betPlayerPair",
                     "type": "asset"
                 },
                 {
@@ -477,11 +477,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "betDealerPush",
+                    "name": "betDealerPair",
                     "type": "asset"
                 },
                 {
-                    "name": "betPlayerPush",
+                    "name": "betPlayerPair",
                     "type": "asset"
                 },
                 {
@@ -611,11 +611,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "oneRoundMaxTotalBet_Push",
+                    "name": "oneRoundMaxTotalBet_Pair",
                     "type": "asset"
                 },
                 {
-                    "name": "minPerBet_Push",
+                    "name": "minPerBet_Pair",
                     "type": "asset"
                 },
                 {
@@ -663,7 +663,7 @@
                     "type": "asset"
                 },
                 {
-                    "name": "currRoundBetSum_Push",
+                    "name": "currRoundBetSum_Pair",
                     "type": "asset"
                 },
                 {
