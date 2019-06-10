@@ -138,6 +138,10 @@
                     "type": "bool"
                 },
                 {
+                    "name": "isFree",
+                    "type": "bool"
+                },
+                {
                     "name": "code",
                     "type": "name"
                 },
@@ -242,6 +246,10 @@
                     "type": "bool"
                 },
                 {
+                    "name": "isFree",
+                    "type": "bool"
+                },
+                {
                     "name": "dealerBalance",
                     "type": "asset"
                 },
@@ -335,6 +343,10 @@
                 },
                 {
                     "name": "isPrivate",
+                    "type": "bool"
+                },
+                {
+                    "name": "isFree",
                     "type": "bool"
                 },
                 {
@@ -592,6 +604,10 @@
                     "type": "bool"
                 },
                 {
+                    "name": "isFree",
+                    "type": "bool"
+                },
+                {
                     "name": "dealerBalance",
                     "type": "asset"
                 },
@@ -656,7 +672,11 @@
                     "type": "uint64"
                 },
                 {
-                    "name": "currRoundBetSum_BP",
+                    "name": "currRoundBetSum_Banker",
+                    "type": "asset"
+                },
+                {
+                    "name": "currRoundBetSum_Player",
                     "type": "asset"
                 },
                 {
@@ -664,7 +684,11 @@
                     "type": "asset"
                 },
                 {
-                    "name": "currRoundBetSum_Pair",
+                    "name": "currRoundBetSum_BankerPair",
+                    "type": "asset"
+                },
+                {
+                    "name": "currRoundBetSum_PlayerPair",
                     "type": "asset"
                 },
                 {
@@ -754,10 +778,6 @@
                 {
                     "name": "seed",
                     "type": "string"
-                },
-                {
-                    "name": "free",
-                    "type": "bool"
                 }
             ]
         }
