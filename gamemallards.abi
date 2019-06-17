@@ -158,6 +158,10 @@
                     "type": "string"
                 },
                 {
+                    "name": "commission_rate_player_spread",
+                    "type": "string"
+                },
+                {
                     "name": "oneRoundMaxTotalBet_bp",
                     "type": "asset"
                 },
@@ -294,6 +298,10 @@
                     "type": "float64"
                 },
                 {
+                    "name": "commission_rate_player_spread",
+                    "type": "float64"
+                },
+                {
                     "name": "upgradingFlag",
                     "type": "bool"
                 },
@@ -363,6 +371,10 @@
                 },
                 {
                     "name": "commission_rate_player",
+                    "type": "string"
+                },
+                {
+                    "name": "commission_rate_player_spread",
                     "type": "string"
                 },
                 {
@@ -452,6 +464,10 @@
                     "type": "name"
                 },
                 {
+                    "name": "spreadAccount",
+                    "type": "name"
+                },
+                {
                     "name": "nickname",
                     "type": "string"
                 },
@@ -461,6 +477,10 @@
                 },
                 {
                     "name": "agentcommission",
+                    "type": "asset"
+                },
+                {
+                    "name": "spreadaccountcommission",
                     "type": "asset"
                 }
             ]
@@ -499,6 +519,10 @@
                 },
                 {
                     "name": "agent",
+                    "type": "name"
+                },
+                {
+                    "name": "spreadAccount",
                     "type": "name"
                 },
                 {
@@ -653,6 +677,10 @@
                 },
                 {
                     "name": "commission_rate_player",
+                    "type": "float64"
+                },
+                {
+                    "name": "commission_rate_player_spread",
                     "type": "float64"
                 },
                 {
